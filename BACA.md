@@ -17,7 +17,6 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 | Dukungan Aplikasi | Bluetooth Voice |
 | Driver | CH340 USB Driver |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
-| Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |

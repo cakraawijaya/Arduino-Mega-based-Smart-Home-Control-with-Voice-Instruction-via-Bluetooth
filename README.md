@@ -17,7 +17,6 @@ Houses in Indonesia today generally have not implemented high-level technology, 
 | Application Support | Bluetooth Voice |
 | Driver | CH340 USB Driver |
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
-| IoT Architecture | 3 Layer |
 | Programming Language | C/C++ |
 | Actuators | • Fan DC 5V (x1)<br>• LED (x1)<br>• Piezoelectric (x1) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
