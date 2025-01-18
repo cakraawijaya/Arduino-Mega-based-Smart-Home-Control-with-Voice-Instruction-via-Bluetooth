@@ -41,7 +41,7 @@ Houses in Indonesia today generally have not implemented high-level technology, 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
