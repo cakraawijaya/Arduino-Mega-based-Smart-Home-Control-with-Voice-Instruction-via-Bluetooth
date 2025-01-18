@@ -41,7 +41,7 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
