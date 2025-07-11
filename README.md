@@ -92,7 +92,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` Arduino Mega 2560 ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
 
