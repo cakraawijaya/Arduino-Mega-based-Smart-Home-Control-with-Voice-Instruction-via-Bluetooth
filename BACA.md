@@ -92,7 +92,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       Cara mengatur board ``` Arduino Mega 2560 ```
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
       
       Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
 
