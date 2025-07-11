@@ -94,7 +94,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       </th></tr>
       <tr><td>
          
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
 
       </td></tr>
    </table><br>
