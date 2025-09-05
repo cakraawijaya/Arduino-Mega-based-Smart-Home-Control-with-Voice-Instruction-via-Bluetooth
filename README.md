@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Arduino-Mega-based-Smart-Home-Control-with-Voice-Instruction-via-Bluetooth
+# Arduino Mega-based Smart Home Control with Voice Instruction via Bluetooth
 Houses in Indonesia today generally have not implemented high-level technology, so to turn off or turn on the device it must be done manually. This is clearly inefficient (waste of time and energy). Therefore, this project was created to make it easier for users to condition the device (on/off). This project has been implemented and took approximately 3 days. This system is equipped with bluetooth, which allows users to control devices by voice. In this case, the devices include: alarms, fans, lights, and screens. UART communication protocol is used as a medium for data exchange between Bluetooth and Arduino Mega board. While the type of UART used is Hardware Serial. The benefit of making this project is none other than to add insight. The results of this research show that the smart home prototype can function properly.
 
 <br><br>
