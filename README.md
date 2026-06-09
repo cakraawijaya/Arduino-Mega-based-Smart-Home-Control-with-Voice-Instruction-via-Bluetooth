@@ -16,11 +16,11 @@ Houses in Indonesia today generally have not implemented high-level technology, 
 | Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Application Support | Bluetooth Voice |
 | Driver | CH340 USB Driver |
-| Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
+| Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
 | Programming Language | C/C++ |
 | Actuators | • Fan DC 5V (x1)<br>• LED (x1)<br>• Piezoelectric (x1) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
-| Display | LCD I2C (x1) |
+| Display | LCD (x1) |
 | Other Components | • USB type B cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Electromechanical relay 4-channel (x1) |
 
 <br><br>
