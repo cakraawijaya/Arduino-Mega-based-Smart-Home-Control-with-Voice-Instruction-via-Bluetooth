@@ -13,7 +13,7 @@ Houses in Indonesia today generally have not implemented high-level technology, 
 | Part | Description |
 | --- | --- |
 | Development Board | Arduino Mega 2560 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Application Support | Bluetooth Voice |
 | Driver | CH340 USB Driver |
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
