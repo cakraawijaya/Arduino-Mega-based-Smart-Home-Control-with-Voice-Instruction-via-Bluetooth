@@ -13,7 +13,7 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Arduino Mega 2560 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Dukungan Aplikasi | Bluetooth Voice |
 | Driver | CH340 USB Driver |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
