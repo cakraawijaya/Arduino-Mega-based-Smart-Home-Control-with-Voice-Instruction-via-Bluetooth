@@ -107,7 +107,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-4. Before uploading the program please click: ``` Verify ```.<br><br>
+4. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 5. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
