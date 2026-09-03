@@ -18,10 +18,10 @@ Rumah-rumah yang ada di Indonesia saat ini umumnya belum menerapkan teknologi ti
 | Driver | CH340 USB Driver |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
 | Bahasa Pemrograman | C/C++ |
-| Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1) |
+| Aktuator | • Kipas DC 5V (x1)<br>• LED (x1)<br>• Piezoelektrik (x1)<br>• Relay elektromekanis 4-channel (x1) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
 | Layar | LCD (x1) |
-| Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Relay elektromekanis 4-channel (x1) |
+| Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1) |
 
 <br><br>
 
